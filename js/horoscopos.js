@@ -1,4 +1,4 @@
-function horoscopos() {
+function espias() {
 
     value = searchInput.value;
     $.ajax({
